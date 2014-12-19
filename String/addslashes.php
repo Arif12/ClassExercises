@@ -1,5 +1,5 @@
 
 <?php
 echo addcslashes("zoo['.']", 'z..A');
-// output:  \zoo['\.']
+// output:  \zoo['\.']q
 ?>
