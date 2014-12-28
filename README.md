@@ -1,4 +1,0 @@
-ClassExercises
-==============
-
-Ourclass works@FTFL
